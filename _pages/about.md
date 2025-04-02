@@ -12,19 +12,19 @@ Who Am I?
 
 I'm an adorable soul from a little planet who spends days learning from people, animals, and stars while asking questions and exploring the universe. I think it's important to look with the heart and appreciate small things like friendship, sunsets, and the softness of a single rose.
 
-❤️ Likes
+What do I like?
 ======
 
 I love watching sunsets, especially when I’m feeling a little sad—they always make me feel calm inside. Taking care of my rose is very important to me; she may seem like an ordinary flower, but to me, she is unique in the whole universe. I enjoy drawing sheep, even if I’m not the best artist—it helps me express things I can’t always explain. I like asking deep questions and listening to the stories others have to share. Meeting new friends during my travels is one of the things I treasure most. And I especially love foxes who teach secrets about life, love, and the things that truly matter.
 
-Create content & metadata
+Things I don't enjoy
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+I don’t like grown-ups who forget what truly matters and only care about numbers or serious things. I worry about baobab trees taking over my little planet if I don’t watch them carefully. I dislike arrogance—they make people hard to talk to. I feel frustrated when I ask questions and don’t get any real answers. And most of all, I don’t like feeling lonely—it’s the hardest feeling in the universe.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**Skills**
+
+I can draw simple pictures that hold deep meaning—like a sheep inside a box. I understand the emotional world of others, even when they don’t say much. I take good care of my planet by cleaning the volcanoes and looking after my rose. I’ve learned how to tame wild animals, especially foxes, by being patient and kind. I see beyond appearances and try to understand what is truly important. And I’ve traveled between planets, learning valuable lessons from each one.
 
 How to edit your site's GitHub repository
 ------
