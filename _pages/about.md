@@ -14,7 +14,6 @@ I'm an adorable soul from a little planet who spends days learning from people, 
 
 What do I like?
 ======
-
 I love watching sunsets, especially when I’m feeling a little sad—they always make me feel calm inside. Taking care of my rose is very important to me; she may seem like an ordinary flower, but to me, she is unique in the whole universe. I enjoy drawing sheep, even if I’m not the best artist—it helps me express things I can’t always explain. I like asking deep questions and listening to the stories others have to share. Meeting new friends during my travels is one of the things I treasure most. And I especially love foxes who teach secrets about life, love, and the things that truly matter.
 
 Things I don't enjoy
