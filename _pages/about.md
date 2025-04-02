@@ -34,6 +34,10 @@ Education
 -Wisdom from a fox (what is essential is invisible to the eye)
 -Observations of grown-ups and their odd behaviors
 
-For more info
+Experiences
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Explored six different planets
+Met a king, a vain man, a drunkard, a businessman, a lamplighter, and a geographer
+Tamed a fox on Earth
+Developed deep reflections on love, loneliness, and human nature
+Returned to his rose through a journey beyond the stars
