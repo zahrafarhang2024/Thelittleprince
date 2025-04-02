@@ -26,12 +26,13 @@ I don’t like grown-ups who forget what truly matters and only care about numbe
 
 I can draw simple pictures that hold deep meaning—like a sheep inside a box. I understand the emotional world of others, even when they don’t say much. I take good care of my planet by cleaning the volcanoes and looking after my rose. I’ve learned how to tame wild animals, especially foxes, by being patient and kind. I see beyond appearances and try to understand what is truly important. And I’ve traveled between planets, learning valuable lessons from each one.
 
-How to edit your site's GitHub repository
+Education
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+-Learned from lived experiences across planets
+-Lessons from a rose (love and responsibility)
+-Wisdom from a fox (what is essential is invisible to the eye)
+-Observations of grown-ups and their odd behaviors
 
 For more info
 ------
