@@ -23,10 +23,10 @@ repository               : "Thelittleprince/zahrafarhang2024.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "The Little Prince"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Curious traveler from  planet B-612"
+  location         : "Planet B-612 "
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
