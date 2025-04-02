@@ -22,14 +22,14 @@ repository               : "Thelittleprince/zahrafarhang2024.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "unnamed-4.jpg"
+  avatar           : "10.jpg"
   name             : "The Little Prince"
   pronouns         : # example: "she/her"  
   bio              : "Curious traveler from  planet B-612"
   location         : "Planet B-612 "
-  employer         : "Red Brick University"
+  employer         : "Moon University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "TheLittlePrince@MoonUniversity.Moon" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
